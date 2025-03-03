@@ -1,8 +1,8 @@
 Kelompok 5
 
-Aaron James Effendi
-Raden Daffa Firasyan Adikusumah
-Naila Febriana Wahyudi
-Daffa Alieftahalim
-Anggi Vito Destamukti
-Ariq Naufal Wahyono
+1. Aaron James Effendi
+2. Raden Daffa Firasyan Adikusumah
+3. Naila Febriana Wahyudi
+4. Daffa Alieftahalim
+5. Anggi Vito Destamukti
+6. Ariq Naufal Wahyono
